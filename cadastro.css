@@ -5,7 +5,7 @@ h1{
   padding: 9px;
  font: size 25px;
  font-family:input;
- color: rgb(14, 11, 15);
+ color: rgb(245, 244, 253);
 }
 body{
 
@@ -25,6 +25,7 @@ body{
 }
 label{
  font-size: 15px;
+ 
 }
 form{
     text-align: center;
